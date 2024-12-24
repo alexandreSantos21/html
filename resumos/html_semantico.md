@@ -5,20 +5,20 @@ O HTML semântico utiliza *tags com significados claros, facilitando a leitura e
 ---
 
 ## Estruturas Principais
-### <header>
+### header
 - Contém o cabeçalho da página ou seção.
 - Geralmente inclui:
   - Logo
   - Menus de navegação
   - Títulos
 
-### <main>
+### main
 - Representa o conteúdo principal da página.
 - *Regras*:
   - Deve haver *apenas um* <main> por documento.
   - Não deve conter cabeçalhos, rodapés ou barras laterais.
 
-### <footer>
+### footer
 - Define o rodapé da página ou seção.
 - Exemplos de conteúdo:
   - Informações de contato
@@ -28,20 +28,20 @@ O HTML semântico utiliza *tags com significados claros, facilitando a leitura e
 ---
 
 ## Seções e Navegação
-### <section>
+### section
 - Agrupa conteúdo relacionado em uma página.
 - Útil para dividir a página em blocos lógicos, como:
   - Introdução
   - Serviços
   - Contato
 
-### <aside>
+### aside
 - Usado para *conteúdo complementar*:
   - Barras laterais
   - Informações extras
   - Anúncios
 
-### <nav>
+### nav
 - Contém *links de navegação*.
 - Exemplo de estrutura:
   ```html
